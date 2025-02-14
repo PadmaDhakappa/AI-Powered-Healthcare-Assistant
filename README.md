@@ -19,3 +19,6 @@ Fork the repository.
 **Commit your changes**: git commit -m "Added support for XYZ condition".
 **Push to the branch**: git push origin feature-new-symptom.
 **Open a Pull Request** .
+
+
+![image](https://github.com/user-attachments/assets/6504ce30-a0cf-4f95-908c-1518dc531871)
