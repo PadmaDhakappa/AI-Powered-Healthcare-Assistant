@@ -1,0 +1,105 @@
+{
+    "symptoms": [
+        {
+            "keywords": ["fever", "high temperature"],
+            "response": "If you have a fever, monitor your temperature and stay hydrated. Rest and take over-the-counter fever reducers like acetaminophen or ibuprofen. Seek medical attention if the fever persists for more than 3 days or exceeds 103°F (39.4°C)."
+        },
+        {
+            "keywords": ["cough", "coughing"],
+            "response": "A persistent cough could be a sign of infection or irritation. Stay hydrated, use a humidifier, and take cough drops or honey to soothe your throat. If the cough is severe or lasts more than 2 weeks, consult a doctor."
+        },
+        {
+            "keywords": ["cold", "common cold"],
+            "response": "A cold can cause sneezing, cough, and mild fever. Rest, stay hydrated, and use over-the-counter cold medications. If symptoms worsen or last more than 10 days, consult a doctor."
+        },
+        {
+            "keywords": ["flu", "influenza"],
+            "response": "Flu symptoms include fever, chills, fatigue, and muscle aches. Rest, stay hydrated, and take antiviral medications if prescribed. Seek medical attention if symptoms worsen or you have difficulty breathing."
+        },
+        {
+            "keywords": ["headache", "migraine"],
+            "response": "A headache can be caused by stress, dehydration, or illness. Rest in a dark, quiet room, stay hydrated, and take over-the-counter pain relievers like ibuprofen or acetaminophen. If headaches are frequent or severe, consult a doctor."
+        },
+        {
+            "keywords": ["back pain", "lower back pain"],
+            "response": "Back pain could be due to posture issues, muscle strain, or an underlying condition. Apply ice or heat to the affected area, take over-the-counter pain relievers, and avoid heavy lifting. If pain persists or worsens, consult a doctor."
+        },
+        {
+            "keywords": ["bleeding finger", "finger bleeding"],
+            "response": "For a bleeding finger, apply pressure with a clean cloth and elevate the hand. Clean the wound with water and apply an antiseptic. If bleeding doesn't stop or the wound is deep, seek medical attention."
+        },
+        {
+            "keywords": ["bleeding gums", "gums bleeding"],
+            "response": "Bleeding gums can be a sign of gum disease or improper brushing. Brush gently with a soft-bristled toothbrush and floss daily. If bleeding persists, consult a dentist."
+        },
+        {
+            "keywords": ["broken finger", "finger fracture"],
+            "response": "If you suspect a broken finger, immobilize it with a splint and apply ice to reduce swelling. Avoid using the finger and seek medical attention immediately."
+        },
+        {
+            "keywords": ["broken arm", "arm fracture"],
+            "response": "If you suspect a broken arm, immobilize it with a splint and apply ice to reduce swelling. Avoid moving the arm and seek medical attention immediately."
+        },
+        {
+            "keywords": ["nausea", "feeling sick"],
+            "response": "Nausea can be caused by various factors, including food poisoning or stress. Drink clear fluids, eat bland foods like crackers, and avoid strong smells. If nausea persists or is accompanied by severe symptoms, consult a doctor."
+        },
+        {
+            "keywords": ["vomiting", "throwing up"],
+            "response": "Vomiting can be caused by food poisoning, infections, or other conditions. Stay hydrated with small sips of water or electrolyte solutions. Avoid solid foods until vomiting stops. If vomiting persists for more than 24 hours, seek medical attention."
+        },
+        {
+            "keywords": ["diarrhea", "loose stools"],
+            "response": "Diarrhea can be caused by infections, food intolerances, or other conditions. Stay hydrated with water and electrolyte solutions. Eat bland foods like bananas, rice, applesauce, and toast. If diarrhea persists for more than 2 days, consult a doctor."
+        },
+        {
+            "keywords": ["chest pain", "chest discomfort"],
+            "response": "Chest pain can be a sign of a serious condition. Stop any physical activity, sit down, and rest. If the pain is severe, radiates to your arm or jaw, or is accompanied by shortness of breath, seek emergency medical help immediately."
+        },
+        {
+            "keywords": ["shortness of breath", "difficulty breathing"],
+            "response": "Shortness of breath can be a sign of a serious condition. Sit upright, stay calm, and try to breathe slowly. If breathing difficulty is severe or accompanied by chest pain, seek emergency medical help immediately."
+        },
+        {
+            "keywords": ["dizziness", "lightheadedness"],
+            "response": "Dizziness can be caused by dehydration, low blood pressure, or other conditions. Sit or lie down, drink water, and avoid sudden movements. If dizziness persists or is accompanied by other symptoms, consult a doctor."
+        },
+        {
+            "keywords": ["burn", "skin burn"],
+            "response": "For minor burns, run cool water over the affected area for 10-15 minutes. Avoid applying ice or butter. Cover the burn with a sterile bandage. If the burn is severe or covers a large area, seek medical attention."
+        },
+        {
+            "keywords": ["cut", "laceration"],
+            "response": "For minor cuts, clean the wound with water and apply an antiseptic. Cover with a sterile bandage. If the cut is deep, bleeding heavily, or shows signs of infection, seek medical attention."
+        },
+        {
+            "keywords": ["rash", "skin rash"],
+            "response": "A rash can be caused by allergies, infections, or skin conditions. Avoid scratching, apply a cool compress, and use over-the-counter antihistamines or hydrocortisone cream. If the rash spreads or is accompanied by fever, consult a doctor."
+        },
+        {
+            "keywords": ["allergy", "allergic reaction"],
+            "response": "Allergies can cause sneezing, runny nose, and itching. Avoid allergens, take antihistamines, and use a nasal spray. If symptoms are severe or include difficulty breathing, seek emergency medical help."
+        },
+        {
+            "keywords": ["sore throat", "throat pain"],
+            "response": "A sore throat can be caused by a viral or bacterial infection. Gargle with warm salt water, stay hydrated, and use throat lozenges. If the sore throat persists for more than a week or is severe, consult a doctor."
+        },
+        {
+            "keywords": ["ear pain", "earache"],
+            "response": "Ear pain can be caused by infections or fluid buildup. Apply a warm compress to the affected ear and take over-the-counter pain relievers. If pain persists or is accompanied by fever, consult a doctor."
+        },
+        {
+            "keywords": ["stomach pain", "abdominal pain"],
+            "response": "Stomach pain can be caused by indigestion, gas, or other conditions. Avoid spicy or fatty foods, drink peppermint tea, and rest. If pain is severe or persistent, consult a doctor."
+        },
+        {
+            "keywords": ["sprain", "ankle sprain"],
+            "response": "For a sprain, follow the RICE method: Rest, Ice, Compression, and Elevation. Avoid putting weight on the injured area. If pain or swelling persists, consult a doctor."
+        },
+        {
+            "keywords": ["nosebleed", "nose bleeding"],
+            "response": "For a nosebleed, sit upright and lean slightly forward. Pinch the soft part of your nose for 10-15 minutes. Avoid tilting your head back. If bleeding doesn't stop or is frequent, consult a doctor."
+        }
+    ],
+    "fallback_response": "I recommend consulting a healthcare professional for a proper diagnosis and treatment."
+}

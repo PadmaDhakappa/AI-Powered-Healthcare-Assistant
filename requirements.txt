@@ -1,0 +1,7 @@
+streamlit
+transformers
+torch
+nltk
+tensorflow
+tf-keras
+accelerate
