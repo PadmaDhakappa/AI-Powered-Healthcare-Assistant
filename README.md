@@ -10,7 +10,7 @@ A **rule-based healthcare chatbot** built with **Streamlit** that provides quick
 **User-Friendly Web Interface** – Built using **Streamlit** for an interactive experience.  
 
 
-### 1️Clone the Repository  
+## Clone the Repository  
 git clone https://github.com/YOUR_GITHUB_USERNAME/healthcare-chatbot.git
 
 
