@@ -18,7 +18,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/healthcare-chatbot.git
 Want to contribute? Follow these steps:
 
 Fork the repository.
-Create a new branch: git checkout -b feature-new-symptom
-Commit your changes: git commit -m "Added support for XYZ condition"
-Push to the branch: git push origin feature-new-symptom
-Open a Pull Request 🚀
+**Create a new branch**: git checkout -b feature-new-symptom
+**Commit your changes**: git commit -m "Added support for XYZ condition"
+**Push to the branch**: git push origin feature-new-symptom
+**Open a Pull Request** 
